@@ -21,13 +21,17 @@ Entry music plays at the start of the game. Battle music plays throughout the ga
 ## Screenshots
 
 **Choosing Character:** 
+
 ![image](https://github.com/shravaniguchhait17/Battle-simulation-of-pokemon/assets/84240264/80df6077-3785-4c86-87e1-9e020cb38f73)
 
 **Entry of characters:**
+
 ![image](https://github.com/shravaniguchhait17/Battle-simulation-of-pokemon/assets/84240264/49a1f64a-f1f3-4108-87b1-cdca9a906198)
 
 **Entry of weapon:**
+
 ![image](https://github.com/shravaniguchhait17/Battle-simulation-of-pokemon/assets/84240264/64f770f2-6cd8-4f36-ac7b-935d82e40195)
 
 **Enabling and disabling the radiobuttons:**
+
 ![image](https://github.com/shravaniguchhait17/Battle-simulation-of-pokemon/assets/84240264/b007f294-090f-4736-9ed8-152783a2d54d)
